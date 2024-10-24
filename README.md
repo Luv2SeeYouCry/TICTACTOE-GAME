@@ -27,7 +27,7 @@
 
 ## Demo
 
-[Live Demo](https://Luv2SeeYouCry.github.io/tictactoe/)
+[Live Demo](https://Luv2SeeYouCry.github.io/TICTACTOE-GAME/)
 
 Good luck, have fun!
 
