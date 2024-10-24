@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/y3Mp0ZW7r7v8Mo7IutRsqFLMh2Z6C_VAN_npDVIo8eDBA7lNDXCu76ztwNgSEgtMoj1v7AFKX0idGOP-eRC3P7FqLKQgqMtKd7I=s0" alt="Snake Game Logo">
+  <img src="image/tic-tac-toe.svg" alt="Tic Tac Toe Logo">
 </p>
 
 <p align="center">
